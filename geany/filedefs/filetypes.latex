@@ -1,0 +1,8 @@
+
+[build-menu]
+EX_00_LB=V_iew PDF File
+EX_00_CM=epdfview "%e.pdf"
+EX_00_WD=
+EX_01_LB=_View DVI File
+EX_01_CM=evince "%e.dvi"
+EX_01_WD=
